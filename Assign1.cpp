@@ -172,3 +172,4 @@ Example –
 // printf(“%d”,x);
 // return 0;
 // }
+//output=7(length of the string)
