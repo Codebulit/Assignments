@@ -60,7 +60,7 @@
 // int main() {
 // int i;
 // printf("the first 10 odd natural numbers in reverse order:\n");
-// for(i=20;i>=1;i--){
+// for(i=20;i>=1;i-=2){
 //     printf("%d ",i);
 // }
 // return 0;
